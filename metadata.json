@@ -1,0 +1,6 @@
+{
+  "name": "Antiquités du Quartier",
+  "description": "Independent antique shop offering vintage furniture, decorative objects, collectibles and unique pieces at 19 Rue de Charonne, 75011 Paris.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
